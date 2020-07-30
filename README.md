@@ -1,5 +1,5 @@
 ## snakeGame
-Project currently <font color="red">**in-progress**</font>
+Project currently <font color=#B22222>**in-progress**</font>
 ![*Picture of game board*](https://github.com/IannGeorges/snakeGame/blob/master/progress0.PNG)
 
 
