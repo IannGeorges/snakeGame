@@ -1,6 +1,6 @@
 ## snakeGame
 Project currently **in-progress**
-![*Picture of game board*](snakeGame/progress.png)
+![*Picture of game board*](relative/path/to/progress.png)
 
 
 ## Contact
